@@ -1,0 +1,43 @@
+{
+  "name": "SillyCompany",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/delauraen/SillyCompany",
+  "description": "just a silly little modpack for friendos",
+  "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+		"notnotnotswipez-MoreCompany-1.7.4"
+		"anormaltwig-LateCompany-1.0.10"
+		"x753-More_Suits-1.4.1"
+		"Sligili-More_Emotes-1.3.3"
+		"RugbugRedfern-Skinwalkers-3.0.1"
+		"RickArg-Helmet_Cameras-2.1.5"
+		"FlipMods-ReservedItemSlotCore-1.8.10"
+		"FlipMods-ReservedFlashlightSlot-1.5.10"
+		"FlipMods-ReservedWalkieSlot-1.5.5"
+		"tinyhoot-ShipLoot-1.0.0"
+		"Rune580-LethalCompany_InputUtils-0.5.4"
+		"EliteMasterEric-Coroner-1.5.3"
+		"FlipMods-ObjectVolumeController-1.0.4"
+		"Sligili-HDLethalCompany-1.5.6"
+		"Midge-PushCompany-1.2.0"
+		"sunnobunno-BonkHitSFX-1.0.5"
+		"sunnobunno-YippeeMod-1.2.3"
+		"Evaisa-HookGenPatcher-0.0.5"
+		"Evaisa-LethalLib-0.12.1"
+		"Evaisa-LethalThings-0.9.4"
+		"sunnobunno-LandMineFartReverb-1.0.3"
+		"TwinDimensionalProductions-CoilHeadStare-1.0.3"
+		"Vulf-GokuBracken-1.4.3"
+		"AllToasters-SpectateEnemies-2.2.1"
+		"Ozone-Runtime_Netcode_Patcher-0.2.5"
+		"FlipMods-CustomTelevisionVideo-1.1.3"
+		"Steven-Custom_Boombox_Music-1.4.0"
+		"CodeEnder-Custom_Boombox_Fix-1.2.2"
+		"FutureSavior-Boombox_Sync_Fix-1.1.2"
+		"Lalaland-SongsToLethalTo-1.3.0"
+		"HolographicWings-LethalExpansion-1.3.19"
+		"sfDesat-Orion-1.2.0"
+		"Steven-Custom_Boombox_Music-1.4.0",
+		"CodeEnder-Custom_Boombox_Fix-1.2.2"
+	]
+}
