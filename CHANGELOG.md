@@ -1,5 +1,16 @@
 # Changelog
 
+
+## 1.3.0
+- Added Explorations (more moons)
+- Added BetterStamina
+- Added Better Teleporter (allows you to take items with you)
+- Added WeatherMultipliers (gives more loot when going to planets with inconvenient weather)
+- Added MoreItems
+- Added FasterItemDropship
+- Added TerminalExtras
+
+
 ## 1.2.0
 - Removed Lethal Clunk (default audio is too loud for some and it's not configurable)
 - Updated mod versions to current as of 2/9/2024 to reduce install time for new clients on first time setup
