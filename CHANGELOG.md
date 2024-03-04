@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.4.0
+- Updated base mod versions for faster first time install
+- Surprise (sebastian, do not look)
 
 ## 1.3.0
 - Added Explorations (more moons)
