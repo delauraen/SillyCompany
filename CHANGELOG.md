@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.5.0
+- Added new crafty moon ⛏️
+- Updated versions
+- Note: Reserved item slots now needs to be purchased from the console unless the default config is changed by the host
+
 ## 1.4.0
 - Updated base mod versions for faster first time install
 - Surprise (sebastian, do not look)
